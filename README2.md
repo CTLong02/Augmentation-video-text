@@ -1,0 +1,3 @@
+- Tải annotation về máy
+- Tải 2 file "EPIC_100_noun_classes.csv" và "EPIC_100_verb_classes.csv" ở trong 
+- Chèn thêm 2 file "EPIC_100_noun_classes.csv" và "EPIC_100_verb_classes.csv" vào thư mục "annotations/epic100RET"
